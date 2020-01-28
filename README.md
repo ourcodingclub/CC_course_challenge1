@@ -1,7 +1,7 @@
 # Where are the red squirrels?
 ### Challenge 1 of Coding Club's <a href="https://ourcodingclub.github.io/course_home/" target="_blank"> *Data Science for Ecologists and Environmental Scientists* </a> course
 
-This repository contains the datasets you will need to complete <a href="https://ourcodingclub.github.io/DL/challenge1.html" target="_blank">Challenge 1</a>. This challenge is associated with the <a href="https://ourcodingclub.github.io/course/stats-scratch.html" target="_blank">Stats from Scratch</a> module of the course. 
+This repository contains the datasets you will need to complete <a href="https://ourcodingclub.github.io/DL/challenge1.html" target="_blank">Challenge 1</a>. This challenge is associated with the <a href="https://ourcodingclub.github.io/course/stats-scratch.html" target="_blank">Stats from Scratch</a> module of the course. You can download this zipped folder to your computer (green button in top right corner), or fork this repository if you have a GitHub account. 
 
 The <a href="https://ourcodingclub.github.io/DL/challenge1.html" target="_blank">challenge page</a> contains all the information and instructions to get you started and guide you through the challenge.
 
