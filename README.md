@@ -1,9 +1,9 @@
 # Where are the red squirrels?
-### Challenge 1 of Coding Club's <a href="https://ourcodingclub.github.io/course_home/" target="_blank"> *Data Science for Ecologists and Environmental Scientists* </a> course
+### Challenge 1 of Coding Club's <a href="https://ourcodingclub.github.io/course/" target="_blank"> *Data Science for Ecologists and Environmental Scientists* </a> course
 
-This repository contains the datasets you will need to complete <a href="https://ourcodingclub.github.io/DL/challenge1.html" target="_blank">Challenge 1</a>. This challenge is associated with the <a href="https://ourcodingclub.github.io/course/stats-scratch.html" target="_blank">Stats from Scratch</a> module of the course. You can download this zipped folder to your computer (green button in top right corner), or fork this repository if you have a GitHub account. 
+This repository contains the datasets you will need to complete <a href="https://ourcodingclub.github.io/course/stats-scratch-challenge/index.html?" target="_blank">Challenge 1</a>. This challenge is associated with the <a href="https://ourcodingclub.github.io/course/stats-scratch/index.html" target="_blank">Stats from Scratch</a> stream of the course. You can download this zipped folder to your computer (green button in top right corner), or fork this repository if you have a GitHub account. 
 
-The <a href="https://ourcodingclub.github.io/DL/challenge1.html" target="_blank">challenge page</a> contains all the information and instructions to get you started and guide you through the challenge.
+The <a href="https://ourcodingclub.github.io/course/stats-scratch-challenge/index.html?" target="_blank">challenge page</a> contains all the information and instructions to get you started and guide you through the challenge.
 
 #### The datasets for the challenges are:
 + __The Scottish Squirrel Database.__ Scottish Wildlife Trust (2018). You will find this in the data folder under the name *squirrels.csv*. Occurrence dataset https://doi.org/10.15468/fqg0h3 under license CC-BY-4.0. The version stored in this repository was accessed through the <a href="https://nbnatlas.org/" target="_blank">NBN Atlas website</a> on May 9th 2019. 
